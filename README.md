@@ -6,7 +6,7 @@ Calculates exact age in years, months, and days from a date of birth.
 - Rejects future dates and invalid calendar dates (e.g. 31 Feb)
 - Also shows total days lived and the next birthday
 
-**Live demo:** `https://<aryashsingh53-AG>.github.io/age-calculator/`
+**Live demo:** https://aryashsingh53-ag.github.io/Age-calculator-/
 
 ## Run locally
 Open `index.html` in any browser.
